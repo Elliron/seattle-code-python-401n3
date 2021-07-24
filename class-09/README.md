@@ -1,6 +1,6 @@
-# Game of Greed 3
+# Game of Greed 4
 
-For _Game of Greed 3_ we'll be handing cheaters and losers. In other words, people who entered dice they didn't actually roll and people who gambled and lost.
+We'll wrap up _Game of Greed 4_ by creating a bot to play against.
 
 ## Learning Objectives
 
@@ -8,18 +8,22 @@ For _Game of Greed 3_ we'll be handing cheaters and losers. In other words, peop
 
 #### Describe and Define
 
-- Validating user input
-- Edge cases in game rules
-- Assess game improvements
+- Method signatures
+- Composition vs. Inheritance
+- Low coupling
 
 #### Execute
 
-- Block invalid dice
-- Continue rolling when all dice scored in current turn
-- End turn when there's a _zilch_
+- A user created _bot_ that will play game of greed using only public API
+- Fine tune _bot_ logic to maximize score
+- Run multiple simulations and determine score distribution
 
 ## Today's Outline
 
 <!-- To Be Completed By Instructor -->
+- Challenge Review
+- Challege Preview
+- Lab Review
 - Lab Preview
+- Guided Research
 - Demo
